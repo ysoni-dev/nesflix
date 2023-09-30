@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "name": "Man Of Steel",
+      "ReleaseYear": "2012",
+      "Rating": "4.2"
+    },
+    {
+      "name": "Eternals",
+      "ReleaseYear": "2021",
+      "Rating": "3.9",
+      "id": "vwso7SV"
+    },
+    {
+      "name": "Conjuring 2",
+      "ReleaseYear": "2016",
+      "Rating": "4.9",
+      "id": "rO9ra2B"
+    },
+    {
+      "name": "Spiderman no way home",
+      "ReleaseYear": "2021",
+      "Rating": "5.0 *",
+      "id": "Qr9aDhw"
+    }
+  ]
+}

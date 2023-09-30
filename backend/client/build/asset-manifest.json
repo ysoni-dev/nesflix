@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f7a2bca.chunk.css",
+    "main.js": "/static/js/main.796addfc.chunk.js",
+    "main.js.map": "/static/js/main.796addfc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d6a8eed3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d6a8eed3.js.map",
+    "static/js/2.0dd7703a.chunk.js": "/static/js/2.0dd7703a.chunk.js",
+    "static/js/2.0dd7703a.chunk.js.map": "/static/js/2.0dd7703a.chunk.js.map",
+    "static/js/3.6af3d6c6.chunk.js": "/static/js/3.6af3d6c6.chunk.js",
+    "static/js/3.6af3d6c6.chunk.js.map": "/static/js/3.6af3d6c6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8f7a2bca.chunk.css.map": "/static/css/main.8f7a2bca.chunk.css.map",
+    "static/js/2.0dd7703a.chunk.js.LICENSE.txt": "/static/js/2.0dd7703a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/BebasNeue-Regular.7e59b91f.otf",
+    "static/media/Venom.06a320a8.png": "/static/media/Venom.06a320a8.png",
+    "static/media/abomin.fdb32488.jpg": "/static/media/abomin.fdb32488.jpg",
+    "static/media/army.6809ae08.jpg": "/static/media/army.6809ae08.jpg",
+    "static/media/extrac.78e505af.jpg": "/static/media/extrac.78e505af.jpg",
+    "static/media/ff.f165b978.jpg": "/static/media/ff.f165b978.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/loveh.201f7de9.jpg": "/static/media/loveh.201f7de9.jpg",
+    "static/media/one.3d1c0129.png": "/static/media/one.3d1c0129.png",
+    "static/media/trans.43dff48a.jpg": "/static/media/trans.43dff48a.jpg",
+    "static/media/war.2b8e0ec1.jpg": "/static/media/war.2b8e0ec1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6a8eed3.js",
+    "static/js/2.0dd7703a.chunk.js",
+    "static/css/main.8f7a2bca.chunk.css",
+    "static/js/main.796addfc.chunk.js"
+  ]
+}
