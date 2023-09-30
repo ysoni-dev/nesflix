@@ -28,7 +28,7 @@ const Mdata=()=>{
          <Grid item md={3}>
              <NavLink to="/one">
          <img src={pic} height="200px" width="300px"  ></img></NavLink>
-         <Typography style={{color:'white', paddingLeft:'2rem', fontSize:'0.8rem'}} variant={'overline'}>Venom</Typography>
+         <Typography style={{color:'white', paddingLeft:'2rem', fontSize:'0.8rem'}} variant={'overline'}>VENOM</Typography>
          </Grid>
          <Grid item md={3}>
          <NavLink to="/two">
